@@ -1,7 +1,3 @@
-Here’s a personalized GitHub profile README for you based on the information you provided:
-
----
-
 # Hi there! 👋  
 I'm **Redwanul Haque Ifty**, a passionate web developer and lifelong learner. 🚀
 
