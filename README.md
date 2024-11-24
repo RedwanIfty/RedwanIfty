@@ -6,8 +6,8 @@ I'm **Redwanul Haque Ifty**, a passionate web developer and lifelong learner. �
 - 🤝 Open to collaborating on **full-stack web development projects** and exciting new technologies.
 
 ### 🛠️ Tools & Technologies I Use:
-- **Frameworks & Libraries:** Laravel, React.js, Next.js, jQuery
-- **Languages:** JavaScript (JS)
+- **Frameworks & Libraries:** Laravel, React.js, Next.js, jQuery, Spring MVC
+- **Languages:** JavaScript (JS),PHP ,C#
 - **Databases:** MySQL
 - **DevOps & Tools:** Docker
 
