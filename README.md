@@ -33,12 +33,7 @@ I'm **Redwanul Haque Ifty**, a passionate web developer and lifelong learner �
 - **Call Logs Management System** – Laravel + DataTables with filters & inline updates  
 - **To-Do App** – Laravel backend + React.js frontend with JWT authentication  
 
----
-
-### 📊 GitHub Stats
-![Ifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifty8555&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifty8555&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ifty8555&theme=radical&hide_border=true)  
+--- 
 
 ---
 
